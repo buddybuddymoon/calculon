@@ -19,7 +19,7 @@ It was determined that making such calculator is good practice for learning:
 3. Learn how to use version control using Git.
 4. Learn how to collaborate with other people by brainstorming ideas, designing features, delegating tasks, and finally building software together.
 
-It was initially started as a side project to practice the above by Ted Shin, Moon Lee, and YJ Lee.
+It was initially started as a side project to practice the above by Ted Shin, **Moon Lee**, and YJ Lee.
 
 *Development Methods*
 1. **Technology:** Django for Backend, Heroku for Server, HTML + CSS + JavaScript for Frontend and AWS for client data storage.
